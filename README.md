@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parekhakhil" alt="parekhakhil" /> </p>
 
-- 🔭 I’m currently working on **BookBugs**
+- 🔭 I’m currently working on **Augmented Reality**
 
-- 🌱 I’m currently learning **Django, ComputerVision**
+- 🌱 I’m currently learning **ReactJS, ComputerVision**
 
-- 🤝 I’m looking for help with **django-rest-framework**
+- 🤝 I’m looking for help with **Image processing expert**
 
 - 👨‍💻 All of my projects are available at [http://github.com/parekhakhil](http://github.com/parekhakhil)
 
