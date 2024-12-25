@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Akhil Parekh</h1>
+<h1 align="center">Hi 👋, I'm <strong><a href="https://parekhakhil.github.io">Akhil Parekh</a></strong>
+</h1>
 <h3 align="center">A passionate backend developer and sometime frontend from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parekhakhil" alt="parekhakhil" /> </p>
 
-- 🔭 I’m currently working on **Augmented Reality**
+- 🔭 I’m currently working on **Lingpad SaaS application**
 
-- 🌱 I’m currently learning **ReactJS, ComputerVision**
+- 🌱 I’m currently learning **ReactJS, ComputerVision, Prompt Engineering, Agentic AI**
 
 - 🤝 I’m looking for help with **Image processing expert**
 
